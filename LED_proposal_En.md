@@ -1,5 +1,10 @@
 #LED Proposal
 
+##Overview
+This proposal introduces the best practice and the success case of Kii IoT solution in the smart LED field.
+Kii is the key member of AllSeen Alliance and dedicates much on the global popularazation of AllJoyn standard, the parteners and clients include major organizations and manufactures such as Ali Cloud, HTC and Yankon LED in domestic area. Kii provides an integrated set of IoT solution on the typical smart LED features including remote control, user/device data management and synchronization, timer job and security mechanism on light sets and senarios, Kii also provides some flexible and extensible features to satisfy some other standard and specified requirement.
+The following content will cover some features and details of Kii IoT solution on the LED field.
+
 ## Afred added
 
 ##SOW (this one should be tailored for each customer)
